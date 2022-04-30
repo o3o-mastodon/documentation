@@ -1,4 +1,4 @@
-baseURL = "http://mastodoncn.netlify.app/"
+baseURL = "https://mastodoncn.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Mastodon documentation"
